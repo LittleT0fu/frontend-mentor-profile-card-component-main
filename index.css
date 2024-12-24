@@ -43,6 +43,9 @@ article {
     background-color: #ffff;
     border-radius: 16px;
     overflow: hidden;
+    box-shadow: 10px 10px 162px -31px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 10px 10px 162px -31px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 162px -31px rgba(0, 0, 0, 0.75);
 
     & .info {
         display: flex;
